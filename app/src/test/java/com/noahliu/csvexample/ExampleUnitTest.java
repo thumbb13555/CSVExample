@@ -1,4 +1,4 @@
-package com.jetec.csvexample;
+package com.noahliu.csvexample;
 
 import org.junit.Test;
 

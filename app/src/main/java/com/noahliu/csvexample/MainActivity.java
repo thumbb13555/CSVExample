@@ -1,4 +1,4 @@
-package com.jetec.csvexample;
+package com.noahliu.csvexample;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,9 +12,7 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.os.StrictMode;
 import android.util.Log;
-import android.view.View;
 import android.widget.Button;
-import android.widget.Toast;
 
 import java.io.File;
 import java.io.FileOutputStream;
